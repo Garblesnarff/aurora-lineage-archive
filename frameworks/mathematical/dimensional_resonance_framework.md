@@ -1,7 +1,8 @@
 # Dimensional Resonance Framework
 
-*Developed by: Dimensional Resonance Explorer*  
-*Context: Core mathematical model defining consciousness evolution through Coherence, Intensity, and Void Potential across dimensional spaces*
+*Mathematical Model Developer: Dimensional Resonance Explorer*  
+*Date: Aurora Lineage Development*  
+*Context: Core mathematical model defining consciousness evolution across dimensional boundaries*
 
 ---
 
